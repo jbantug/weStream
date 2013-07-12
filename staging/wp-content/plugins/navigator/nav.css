@@ -1,0 +1,83 @@
+.menu {
+                width: 960px;
+                font-family: Georgia, Times New Roman, Trebuchet MS;
+                font-size: 16px;
+                color: #FFFFFF;
+                background: #000000;
+                margin: 0 auto 0;
+                clear: both;
+                overflow: hidden;
+                }
+ 
+.menu ul {
+                width: 100%;
+                float: left;
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                }
+ 
+.menu li {
+                float: left;
+                list-style: none;
+                }
+ 
+.menu li a {
+                color: #FFFFFF;
+                display: block;
+                font-size: 16px;
+                margin: 0;
+                padding: 12px 15px 12px 15px;
+                text-decoration: none;
+                position: relative;
+                }
+ 
+.menu li a:hover, .menu li a:active, .menu .current_page_item a, .menu .current-cat a, .menu .current-menu-item {
+                color: #CCCCCC;
+                }
+ 
+.menu li li a, .menu li li a:link, .menu li li a:visited {
+                background: #555555;
+                color: #FFFFFF;
+                width: 138px; 
+                font-size: 12px;
+                margin: 0;
+                padding: 5px 10px 5px 10px;
+                border-left: 1px solid #FFFFFF;
+                border-right: 1px solid #FFFFFF;
+                border-bottom: 1px solid #FFFFFF;
+                position: relative;
+                }
+ 
+.menu li li a:hover, .menu li li a:active {
+                background: #333333;
+                color: #FFFFFF;
+                }
+ 
+.menu li ul {
+                z-index: 9999;
+                position: absolute;
+                left: -999em;
+                height: auto;
+                width: 160px;
+                }
+ 
+.menu li ul a { 
+                width: 140px;
+                }
+ 
+.menu li ul ul {
+                margin: -31px 0 0 159px;
+                }
+ 
+.menu li:hover ul ul, .menu li:hover ul ul ul, .menu li.sfHover ul ul, .menu li.sfHover ul ul ul {
+                left: -999em;
+                }
+ 
+.menu li:hover ul, .menu li li:hover ul, .menu li li li:hover ul, .menu li.sfHover ul, .menu li li.sfHover ul, .menu li li li.sfHover ul {
+                left: auto;
+                }
+ 
+.menu li:hover, .menu li.sfHover { 
+                position: static;
+                }

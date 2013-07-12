@@ -1,0 +1,10 @@
+8cÚQ<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:117;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-07-31 03:50:39";s:13:"post_date_gmt";s:19:"2012-07-31 11:50:39";s:12:"post_content";s:932:"There are many factors why conversions may not happen.
+<ol>
+	<li><b>Existing account</b> - Publishers only pay for new gamers, not returning ones. If people already have an account with that game or game website, there will not be a conversion.<br><br><br></li>
+	<li><b>Country</b> - It depends on the country where your clicks come from. Publishers only pay for new accounts from a few select countries, not all of them.<br><br><br></li>
+	<li><b>Ad-blockers</b> - These can block conversions in the same way they block ads from displaying.<br><br><br></li>
+	<li><b>Custom rules</b> - Ultimately, the publishers decide who qualifies as a conversion, and they may add custom rules to filter certain traffic.</li>
+</ol>
+We see hundreds of conversions every day from our partners, so the system definitely works :-)
+
+Our suggestion: Keep promoting your Play Now links around your videos and you will see conversions over time.";s:10:"post_title";s:39:"I get clicks but no conversions! - Why?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:35:"i-get-clicks-but-no-conversions-why";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-06-03 18:18:12";s:17:"post_modified_gmt";s:19:"2013-06-04 02:18:12";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:61:"http://theme-fusion.com/avada/?post_type=avada_faq&#038;p=117";s:10:"menu_order";i:10;s:9:"post_type";s:9:"avada_faq";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

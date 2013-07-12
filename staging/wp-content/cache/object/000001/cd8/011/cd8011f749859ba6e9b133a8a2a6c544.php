@@ -1,0 +1,6 @@
+ÏRÁQ<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:5059;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-06-07 01:06:10";s:13:"post_date_gmt";s:19:"2013-06-07 09:06:10";s:12:"post_content";s:408:"Our dashboard tracks every click and conversion from our Play Now links.
+
+After you sign in to <a href="http://www.dashboard.tm/">www.dashboard.tm</a>, click on "Offers" and pick one. Notice the Play Now link? Each Play Now link is unique to your account.
+
+Paste your Play Now links beneath your videos. Then, everyone who watches your videos and clicks your Play Now links is tracked by our dashboard!
+";s:10:"post_title";s:75:"How can you track clicks from my YouTube videos? - Through our dashboard...";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:52:"track-clicks-youtube-videos-any-tv-account-dashboard";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-06-07 01:08:00";s:17:"post_modified_gmt";s:19:"2013-06-07 09:08:00";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:50:"http://www.any.tv/?post_type=avada_faq&#038;p=5059";s:10:"menu_order";i:14;s:9:"post_type";s:9:"avada_faq";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

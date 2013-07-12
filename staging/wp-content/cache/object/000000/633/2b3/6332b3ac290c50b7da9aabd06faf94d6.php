@@ -1,0 +1,9 @@
+8cÚQ<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:4887;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-04-26 22:37:26";s:13:"post_date_gmt";s:19:"2013-04-27 06:37:26";s:12:"post_content";s:728:"To make your own Network, watch the video below and start building your Network with any.TV!
+
+Simply share your Refer-a-Friend link, inviting people to sign up :-)
+
+George created the any.TV Network as a franchise model to support Networks like yours. Before any.TV, George created and built the TGN Network from the ground up. He sold it to BroadbandTV and exited completely in Oct, 2012.
+
+That is one reason George sold TGN, because it was too difficult to help YouTubers build their own Networks. What we needed was a new kind of YouTube Network built on a new revenue stream - recommendation revenue - with a franchise model, and that is any.TV.
+
+[ayoutube id="Hs1Tq_Mi_Yg" list="PLyI74zGGymu-Af4kOpHBLmGl3VleyDu-Y"]";s:10:"post_title";s:29:"How do I make my own Network?";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:35:"how-do-i-make-a-network-like-any-tv";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-05-06 18:29:20";s:17:"post_modified_gmt";s:19:"2013-05-07 02:29:20";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:50:"http://www.any.tv/?post_type=avada_faq&#038;p=4887";s:10:"menu_order";i:16;s:9:"post_type";s:9:"avada_faq";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

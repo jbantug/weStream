@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	
+	<title>any.TV Home Version 8 - any.TV</title>
+
+	<link rel="stylesheet" href="http://www.any.tv/wp-content/themes/Avada-Child-Theme/style.css" />
+	
+	<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://www.any.tv/wp-content/themes/Avada/js/respond.min.js"></script>
+	<link rel="stylesheet" href="http://www.any.tv/wp-content/themes/Avada/css/ie.css" />
+	<![endif]-->
+
+				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<link rel="stylesheet" href="http://www.any.tv/wp-content/themes/Avada/css/media.css" />
+				<style type="text/css">
+		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait){
+			#wrapper{
+				width:1100px !important;
+			}
+		}
+		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape){
+			#wrapper{
+				width:1100px !important;
+			}
+		}
+		</style>
+				
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&amp;subset=latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese' rel='stylesheet' type='text/css' />
+	
+	
+	
+	
+	
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.any.tv/home-version-8/" />
+<meta property='og:locale' content='en_US'/>
+<meta property='og:type' content='article'/>
+<meta property='og:title' content='Home Version 8 - any.TV'/>
+<meta property='og:url' content='http://www.any.tv/home-version-8/'/>
+<meta property='og:site_name' content='any.TV'/>
+<meta property='og:image' content='http://www.any.tv/wp-content/uploads/2013/02/image_4.jpg'/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="any.TV &raquo; Feed" href="http://www.any.tv/feed/" />
+<link rel="alternate" type="application/rss+xml" title="any.TV &raquo; Comments Feed" href="http://www.any.tv/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="any.TV &raquo; Home Version 8 Comments Feed" href="http://www.any.tv/home-version-8/feed/" />
+<link rel='stylesheet' id='layerslider_css-css'  href='http://www.any.tv/wp-content/themes/Avada/framework/plugins/LayerSlider/css/layerslider.css?ver=3.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://www.any.tv/wp-content/themes/Avada/framework/plugins/revslider/rs-plugin/css/settings.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://www.any.tv/wp-content/themes/Avada/framework/plugins/revslider/rs-plugin/css/captions.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-flexslider-css'  href='http://www.any.tv/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/flexslider.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-common-css'  href='http://www.any.tv/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.any.tv/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.flexslider-min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.fitvids.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.easing.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/main.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/framework/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=3.6.2'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/framework/plugins/LayerSlider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/framework/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/framework/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.any.tv/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.any.tv/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+
+	<!--[if IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+	    w = imgs[i].getAttribute( 'width' );
+	    if ( 615 < w ) {
+	        imgs[i].removeAttribute( 'width' );
+	        imgs[i].removeAttribute( 'height' );
+	    }
+	}
+	});
+	</script>
+	<![endif]-->
+	<script type="text/javascript">
+	jQuery(window).load(function() {
+		jQuery('.tfs-slider').flexslider({
+			animation: "fade",
+			slideshow: true,
+			slideshowSpeed: 7000,
+			animationSpeed: 600,
+			smoothHeight: true
+		});
+		
+		jQuery('.flexslider').flexslider({
+			slideshow: true,
+		});
+
+		jQuery('.full-video, .video-shortcode, .wooslider .slide-content').fitVids();
+
+		if(jQuery('.fullwidthbanner-container').length >=1 && jQuery('.tp-bannershadow').length == 0) {
+			jQuery('<div class="shadow-left">').appendTo('.rev_slider_wrapper');
+			jQuery('<div class="shadow-right">').appendTo('.rev_slider_wrapper');
+
+			jQuery('.fullwidthbanner-container').addClass('avada-skin-rev');
+		}
+
+		jQuery('.tparrows').each(function() {
+			if(jQuery(this).css('visibility') == 'hidden') {
+				jQuery(this).remove();
+			}
+		});
+	});
+	jQuery(document).ready(function($) {
+		function onAfter(curr, next, opts, fwd) {
+		  var $ht = $(this).height();
+
+		  //set the container's height to that of the current slide
+		  $(this).parent().animate({height: $ht});
+		}
+
+	    $('.reviews').cycle({
+			fx: 'fade',
+			after: onAfter,
+						timeout: 4000					});
+
+				/*$('.image').live('mouseenter', function(e) {
+			if(!$(this).hasClass('slided')) {
+				$(this).find('.image-extras').show().stop(true, true).animate({opacity: '1', left: '0'}, 400);
+				$(this).addClass('slided');
+			} else {
+				$(this).find('.image-extras').stop(true, true).fadeIn('normal');
+			}
+		});
+		$('.image-extras').mouseleave(function(e) {
+			$(this).fadeOut('normal');
+		});*/
+		
+		var ppArgs = {
+						animation_speed: 'fast',
+						overlay_gallery: true,
+			autoplay_slideshow: false,
+						slideshow: 5000,
+									opacity: 0.8,
+						show_title: true,
+					};
+
+		$("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+
+		
+		var mediaQuery = 'desk';
+
+		if (Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) {
+
+			mediaQuery = 'mobile';
+			$("a[rel^='prettyPhoto']").unbind('click');
+					} 
+
+		// Disables prettyPhoto if screen small
+		$(window).resize(function() {
+			if ((Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) && mediaQuery == 'desk') {
+				$("a[rel^='prettyPhoto']").unbind('click.prettyphoto');
+								mediaQuery = 'mobile';
+			} else if (!Modernizr.mq('only screen and (max-width: 600px)') && !Modernizr.mq('only screen and (max-height: 520px)') && mediaQuery == 'mobile') {
+				$("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+								mediaQuery = 'desk';
+			}
+		});
+				$('.side-nav li').hoverIntent({
+		over: function() {
+			if($(this).find('> .children').length >= 1) {
+				$(this).find('> .children').stop(true, true).slideDown('slow');
+			}
+		},
+		out: function() {
+			if(!$(this).find('.current_page_item').length) {
+				$(this).find('.children').stop(true, true).slideUp('slow');
+			}
+		},
+		timeout: 500
+		});
+		
+        $('#ei-slider').eislideshow({
+        	        	animation: 'sides',
+        	        	autoplay: true,
+        	        	slideshow_interval: 3000,
+        	        	        	speed: 800,
+        	        	        	thumbMaxWidth: 150        	        });
+
+        var retina = window.devicePixelRatio > 1 ? true : false;
+
+        	});
+	</script>
+
+	<style type="text/css">
+		a:hover,
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	.footer-area ul li a:hover,
+	.side-nav li.current_page_item a,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.project-content .project-info .project-info-box a:hover,
+	.about-author .title a,
+	span.dropcap,.footer-area a:hover,.copyright a:hover,
+	#sidebar .widget_categories li a:hover,
+	#main .post h2 a:hover,
+	#sidebar .widget li a:hover,
+	#nav ul a:hover{
+		color:#67b7e1 !important;
+	}
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	#nav ul ul,#nav li.current-menu-ancestor a,
+	.reading-box,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.tab-holder .tabs li.active a,
+	.post-content blockquote,
+	.progress-bar-content,
+	.pagination .current,
+	.pagination a.inactive:hover,
+	#nav ul a:hover{
+		border-color:#67b7e1 !important;
+	}
+	.side-nav li.current_page_item a{
+		border-right-color:#67b7e1 !important;	
+	}
+	.header-v2 .header-social, .header-v3 .header-social, .header-v4 .header-social,.header-v5 .header-social{
+		border-top-color:#67b7e1 !important;	
+	}
+	h5.toggle.active span.arrow,
+	.post-content ul.arrow li:before,
+	.progress-bar-content,
+	.pagination .current,
+	.header-v3 .header-social,.header-v4 .header-social,.header-v5 .header-social{
+		background-color:#67b7e1 !important;
+	}
+	
+		.sep-boxed-pricing ul li.title-row{
+		background-color:#62a2c4 !important;
+		border-color:#62a2c4 !important;
+	}
+	.pricing-row .exact_price, .pricing-row sup{
+		color:#62a2c4 !important;
+	}
+			.image .image-extras{
+		background-image: linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -o-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -moz-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -webkit-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -ms-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #90c9e8),
+			color-stop(1, #5aabd6)
+		);
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#90c9e8', endColorstr='#5aabd6');
+	}
+	.no-cssgradients .image .image-extras{
+		background:#90c9e8;
+	}
+			#main .reading-box .button,
+	#main .continue.button,
+	#main .portfolio-one .button,
+	#main .comment-submit,
+	.button.default{
+		color: #105378 !important;
+		background-image: linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -o-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -moz-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -webkit-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+		background-image: -ms-linear-gradient(top, #90c9e8 0%, #5aabd6 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #90c9e8),
+			color-stop(1, #5aabd6)
+		);
+		border:1px solid #5aabd6;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#90c9e8', endColorstr='#5aabd6');
+	}
+	.no-cssgradients #main .reading-box .button,
+	.no-cssgradients #main .continue.button,
+	.no-cssgradients #main .portfolio-one .button,
+	.no-cssgradients #main .comment-submit,
+	.no-cssgradients .button.default{
+		background:#90c9e8;
+	}
+	#main .reading-box .button:hover,
+	#main .continue.button:hover,
+	#main .portfolio-one .button:hover,
+	#main .comment-submit:hover,
+	.button.default:hover{
+		color: #105378 !important;
+		background-image: linear-gradient(top, #5aabd6 0%, #90c9e8 100%);
+		background-image: -o-linear-gradient(top, #5aabd6 0%, #90c9e8 100%);
+		background-image: -moz-linear-gradient(top, #5aabd6 0%, #90c9e8 100%);
+		background-image: -webkit-linear-gradient(top, #5aabd6 0%, #90c9e8 100%);
+		background-image: -ms-linear-gradient(top, #5aabd6 0%, #90c9e8 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #5aabd6),
+			color-stop(1, #90c9e8)
+		);
+		border:1px solid #5aabd6;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5aabd6', endColorstr='#90c9e8');
+	}
+	.no-cssgradients #main .reading-box .button:hover,
+	.no-cssgradients #main .continue.button:hover,
+	.no-cssgradients #main .portfolio-one .button:hover,
+	.no-cssgradients #main .comment-submit:hover,
+	.no-cssgradients .button.default{
+		background:#5aabd6;
+	}
+	
+	
+		.page-title-container{
+		background-image:url(http://www.any.tv/wp-content/themes/Avada/images/page_title_bg.png) !important;
+	}
+	
+		.page-title-container{
+		background-color:#F6F6F6;
+	}
+	
+	
+	
+	body,#nav ul li ul li a,
+	.more,
+	.avada-container h3,
+	.meta .date,
+	.review blockquote q,
+	.review blockquote div strong,
+	.image .image-extras .image-extras-content h4,
+	.project-content .project-info h4,
+	.post-content blockquote,
+	.button.large,
+	.button.small,
+	.ei-title h3{
+		font-family:"Open Sans", Arial, Helvetica, sans-serif !important;
+	}
+	.avada-container h3,
+	.review blockquote div strong,
+	.footer-area  h3,
+	.button.large,
+	.button.small{
+		font-weight:bold;
+	}
+	.meta .date,
+	.review blockquote q,
+	.post-content blockquote{
+		font-style:italic;
+	}
+
+	
+	#nav,
+	.side-nav li a{
+		font-family:"Open Sans", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	#main .reading-box h2,
+	#main h2,
+	.page-title h1,
+	.image .image-extras .image-extras-content h3,
+	#main .post h2,
+	#sidebar .widget h3,
+	.tab-holder .tabs li a,
+	.share-box h4,
+	.project-content h3,
+	h5.toggle a,
+	.full-boxed-pricing ul li.title-row,
+	.full-boxed-pricing ul li.pricing-row,
+	.sep-boxed-pricing ul li.title-row,
+	.sep-boxed-pricing ul li.pricing-row,
+	.person-author-wrapper,
+	.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6,
+	.ei-title h2, #header .tagline{
+		font-family:"Open Sans", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	.footer-area  h3{
+		font-family:"Open Sans", Arial, Helvetica, sans-serif !important;
+	}
+
+		body{
+		font-size:14px;
+				line-height:21px;
+	}
+	.project-content .project-info h4{
+		font-size:14px !important;
+				line-height:21px !important;
+	}
+	
+		#nav{font-size:14px !important;}
+	
+		.header-social *{font-size:12px !important;}
+	
+		.page-title ul li,page-title ul li a{font-size:10px !important;}
+	
+		.side-nav li a{font-size:14px !important;}
+	
+		#sidebar .widget h3{font-size:13px !important;}
+	
+		.footer-area h3{font-size:13px !important;}
+	
+		.copyright{font-size:12px !important;}
+	
+		#header .avada-row, #main .avada-row, .footer-area .avada-row, #footer .avada-row{ max-width:940px; }
+	
+		.post-content h1{
+		font-size:32px !important;
+				line-height:48px !important;
+	}
+	
+		.post-content h2,.title h2,#main .post-content .title h2,.page-title h1,#main .post h2 a{
+		font-size:18px !important;
+				line-height:27px !important;
+	}
+	
+		.post-content h3,.project-content h3,#header .tagline{
+		font-size:16px !important;
+				line-height:24px !important;
+	}
+	
+		.post-content h4{
+		font-size:13px !important;
+				line-height:20px !important;
+	}
+	h5.toggle a,.tab-holder .tabs li a,.share-box h4,.person-author-wrapper{
+		font-size:13px !important;
+	}
+	
+		.post-content h5{
+		font-size:12px !important;
+				line-height:18px !important;
+	}
+	
+		.post-content h6{
+		font-size:11px !important;
+				line-height:17px !important;
+	}
+	
+		.ei-title h2{
+		font-size:42px !important;
+				line-height:63px !important;
+	}
+	
+		.ei-title h3{
+		font-size:20px !important;
+				line-height:30px !important;
+	}
+	
+		body,.post .post-content,.post-content blockquote,.tab-holder .news-list li .post-holder .meta,#sidebar #jtwt,.meta,.review blockquote div,.search input,.project-content .project-info h4{color:#747474 !important;}
+	
+		.post-content h1, .post-content h2, .post-content h3,
+	.post-content h4, .post-content h5, .post-content h6,
+	#sidebar .widget h3,h5.toggle a, .tab-holder .tabs li a,
+	.page-title h1,.full-boxed-pricing ul li.title-row,
+	.image .image-extras .image-extras-content h3,.project-content .project-info h4,.project-content h3,.share-box h4,.title h2,.person-author-wrapper,#sidebar .tab-holder .tabs li a,#header .tagline{
+		color:#333333 !important;
+	}
+	
+		body a,.project-content .project-info .project-info-box a,#sidebar .widget li a, #sidebar .widget .recentcomments, #sidebar .widget_categories li, #main .post h2 a{color:#333333 !important;}
+	
+		.page-title ul li,.page-title ul li a{color:#333333 !important;}
+	
+		.footer-area h3{color:#DDDDDD !important;}
+	
+		.footer-area,.footer-area #jtwt,.copyright{color:#8C8989 !important;}
+	
+		.footer-area a,.copyright a{color:#BFBFBF !important;}
+	
+		#nav ul a,.side-nav li a{color:#333333 !important;}
+	
+		#nav ul ul{background-color:#edebeb;}
+	
+		#wrapper #nav ul li ul li a,.side-nav li li a,.side-nav li.current_page_item li a{color:#333333 !important;}
+	
+		.ei-title h2{color:#333333 !important;}
+	
+		.ei-title h3{color:#747474 !important;}
+	
+		#wrapper .header-social *{color:#747474 !important;}
+	#wrapper .header-social .menu li{border-color:#747474 !important;}
+	
+	
+	
+		.main-flex .flex-control-nav{display:none !important;}
+		
+		@media only screen and (max-width: 940px){
+		.breadcrumbs{display:none !important;}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait){
+		.breadcrumbs{display:none !important;}
+	}
+	
+		
+		#nav > li > a,#nav li.current-menu-ancestor a{height:83px;line-height:83px;}
+	#nav > li > a,#nav li.current-menu-ancestor a{height:83px;line-height:83px;}
+
+	#nav ul ul{top:86px;}
+
+		
+	@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+		.page-title-container {
+			background-image: url() !important;
+			-webkit-background-size:1400px 87px;
+			   -moz-background-size:1400px 87px;
+			     -o-background-size:1400px 87px;
+			        background-size:1400px 87px;
+		}
+	}
+
+		.ei-slider{width:100% !important;}
+	
+		.ei-slider{height:400px !important;}
+	
+	body { margin:0 16px; background-color:#fff } /* YouTube uses #fbfbfb for its background color */
+
+body .post-content p { margin:16px 0 }
+
+body .share-box,
+body .about-author,
+body .related-posts { display:none }
+
+#disqus_thread { margin-top:32px; padding-top:32px; }
+
+#main { background-color:#fff}
+
+#header { background-color:#f1f1f1 }
+
+.notice { margin:0 auto; padding:8px 16px 8px 64px  }
+
+.page-title ul li,
+page-title ul li a { font-size: 14px!important; }
+
+h1 { margin:32px 0 32px; font-weight:normal; font-size:32px }
+hr { clear:both }
+
+a:hover { text-decoration:underline }
+
+.block640 { max-width: 640px; margin: 16px auto; }
+
+.center { text-align:center }
+.center-block { margin:0 auto; clear:both }
+
+/*
+body .video-shortcode { margin:0 }
+*/
+
+.favicon { vertical-align:middle }
+
+.center-video { width:640px; margin:0 auto }
+
+.img-left { margin:0 16px 16px 0; float:left; }
+.img-right { margin:0 0 16px 16px; float:right; }
+
+.home #main { padding:0 }
+.home .columns { margin:0 }
+
+#header .logo { margin:25px 0 0 0 }
+
+#nav ul li { padding:0 0 0 30px; }
+
+body #nav ul a { border-top:0 }
+
+nav#nav { margin-right:32px }
+.title { background:0 }
+
+sup { font-size:60% }
+
+.button.large { text-transform:none }
+
+.page-title-wrapper { max-width:940px; width:auto; padding:0 32px; }
+
+ul.sub-menu { border:2px solid }
+
+li.separator { border-top:1px solid #67b7e1}
+
+#nav ul ul { top:64px }
+
+#wrapper #nav ul li ul li a {
+padding-left:32px;
+background-repeat: no-repeat;
+}
+
+#menu-item-4593 a { padding-left:20px; background:url(http://www.file.tm/favicons/anyTV.png) no-repeat 0% 50% }
+
+#menu-item-4646 a { padding-left:20px; background:url(http://www.file.tm/favicons/anyTV.png) no-repeat 0% 50% }
+
+#menu-item-4938 a { padding-left:20px; background:url(http://www.file.tm/favicons/anyTV.png) no-repeat 0% 50% }
+
+#menu-item-4696 a { padding-left:20px; background:url(http://www.file.tm/icons/earth-16x16.png) no-repeat 0% 50% }
+
+#menu-item-3613 a { padding-left:20px; background:url(http://www.file.tm/favicons/communityTM.png) no-repeat 0 50% }
+
+#menu-item-3612 a { padding-left:20px; background:url(http://www.file.tm/favicons/dashboardTM.png) no-repeat 0 50% }
+
+#menu-item-3615 a { padding-left:20px; background:url(http://www.file.tm/favicons/mmoTM.png) no-repeat 0 50% }
+
+#menu-item-4358 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4044 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4171 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4746 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4478 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4894 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4931 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-5094 a { background-image: url(http://www.file.tm/favicons/anyTV.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4647 a { background-image: url(http://www.file.tm/flags/de-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4697 a { background-image: url(http://www.file.tm/flags/dk-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4794 a { background-image: url(http://www.file.tm/flags/it-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4712 a { background-image: url(http://www.file.tm/flags/pl-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-5092 a { background-image: url(http://www.file.tm/flags/ru-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4744 a { background-image: url(http://www.file.tm/flags/nl-16x16.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4992 a { background-image: url(http://www.file.tm/flags/es-16x16.png?2) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4789 a { background-image: url(http://www.file.tm/favicons/facebook.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4880 a { background-image: url(http://www.file.tm/favicons/youtube.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4790 a { background-image: url(http://www.file.tm/favicons/twitter.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+#menu-item-4895 a { background-image: url(http://www.file.tm/favicons/twitch.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important;) no-repeat 0% 50% }
+
+#menu-item-4791 a { background-image: url(http://www.file.tm/favicons/googleplus.png) !important;
+background-position-x: 12px !important;
+background-position-y: 50% !important; }
+
+ /* so bottom button border is not cut off * /
+.columns .col { padding-bottom:2px }
+
+#main .columns h2 { margin-top:16px }
+*/
+	</style>
+
+	<style type="text/css" id="ss">
+	</style>
+
+	<link rel="stylesheet" id="style_selector_ss" href="#" />
+	
+	
+	</head>
+<body class="page page-id-2660 page-template page-template-full-width-php">
+	<div id="wrapper">
+	<header id="header">
+	<div class="avada-row" style="margin-top:0px;margin-bottom:0px;">
+		<div class="logo" style="margin-left:0px;"><a href="http://www.any.tv"><img src="http://www.any.tv/wp-content/uploads/2013/03/anytv-logo-1600x1600-to-84x32.png" alt="any.TV" /></a></div>
+		<nav id="nav" class="nav-holder">
+			<ul id="nav" class="menu"><li id="menu-item-4593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4593"><a href="http://www.any.tv/faq/">faq</a></li>
+<li id="menu-item-4938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4938"><a href="http://www.any.tv/submit/">upload</a></li>
+<li id="menu-item-4646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4646"><a href="#">any.TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-4478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4478"><a href="http://www.any.tv/branding/">branding kit</a></li>
+	<li id="menu-item-4171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4171"><a href="http://www.any.tv/games/">games list</a></li>
+	<li id="menu-item-5094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094"><a href="http://www.any.tv/handbook/live/">live stream handbook</a></li>
+	<li id="menu-item-4931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4931"><a href="http://www.any.tv/handbook/recruiter/">recruiters handbook</a></li>
+	<li id="menu-item-4894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4894"><a href="http://www.any.tv/twitch/">join twitch team!</a></li>
+	<li id="menu-item-4044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4044"><a href="http://www.any.tv/staff/">staff</a></li>
+	<li id="menu-item-4746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4746"><a href="http://www.any.tv/old-website/">old website</a></li>
+	<li id="menu-item-4789" class="separator menu-item menu-item-type-custom menu-item-object-custom menu-item-4789"><a href="https://www.facebook.com/anyTVnetwork">facebook</a></li>
+	<li id="menu-item-4791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4791"><a href="https://plus.google.com/109971475987405213729/posts">google+</a></li>
+	<li id="menu-item-4895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4895"><a href="http://www.twitch.tv/team/anyTVnetwork">twitch</a></li>
+	<li id="menu-item-4790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4790"><a href="https://twitter.com/anyTVnetwork">twitter</a></li>
+	<li id="menu-item-4880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4880"><a href="http://www.youtube.com/anyTVnetwork">youtube</a></li>
+	<li id="menu-item-4358" class="separator menu-item menu-item-type-post_type menu-item-object-page menu-item-4358"><a href="http://www.any.tv/about/">about</a></li>
+</ul>
+</li>
+<li id="menu-item-4696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4696"><a href="#">worldwide</a>
+<ul class="sub-menu">
+	<li id="menu-item-4697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4697"><a href="http://www.any.tv/danish/">danish</a></li>
+	<li id="menu-item-4744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4744"><a href="http://www.any.tv/dutch/">dutch</a></li>
+	<li id="menu-item-4647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4647"><a href="http://www.any.tv/german/">german</a></li>
+	<li id="menu-item-4794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4794"><a href="http://www.any.tv/italian/">italian</a></li>
+	<li id="menu-item-4712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4712"><a href="http://www.any.tv/polish/">polish</a></li>
+	<li id="menu-item-5092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5092"><a href="http://www.any.tv/russian/">russian</a></li>
+	<li id="menu-item-4992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4992"><a href="http://www.any.tv/spanish/">spanish</a></li>
+</ul>
+</li>
+<li id="menu-item-3613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3613"><a href="http://www.community.tm">community</a></li>
+<li id="menu-item-3612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3612"><a href="http://www.dashboard.tm">dashboard</a></li>
+<li id="menu-item-3615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3615"><a href="http://www.mmo.tm">mmo</a></li>
+</ul>		</nav>
+	</div>
+</header>		<div id="sliders-container">
+					</div>
+													<div id="main" style="overflow:hidden !important;">
+		<div class="avada-row">	<div id="content" class="full-width">
+				<div id="post-2660" class="post-2660 page type-page status-publish hentry">
+						<div class="post-content">
+				<div class="demo-sep" style="margin-top: 30px;"></div>
+<div class="one_fourth">
+<img alt="" src="http://www.any.tv/wp-content/uploads/2013/02/image_4.jpg" /></p>
+<h2>100% Ultra Responsive</h2>
+<p>Avada is fully responsive and can adapt to any screen size, its incredibly fast and super flexible.<br />
+</div>
+<div class="one_fourth">
+<img alt="" src="http://www.any.tv/wp-content/uploads/2013/02/image_4.jpg" /></p>
+<h2>Amazingly Cool Sliders</h2>
+<p>Avada includes the awesome Layer Slider, Revolution Slider as well as the ever popular FlexSlider2.<br />
+</div>
+<div class="one_fourth">
+<img alt="" src="http://www.any.tv/wp-content/uploads/2013/02/image_4.jpg" /></p>
+<h2>Advanced Admin Area</h2>
+<p>Avada includes an advanced admin panel making it fun and very easy to customize your theme.<br />
+</div>
+<div class="one_fourth last">
+<img alt="" src="http://www.any.tv/wp-content/uploads/2013/02/image_4.jpg" /></p>
+<h2>Loaded With Options</h2>
+<p>This theme is loaded with options and we are constantly updating Avada with new features.<br />
+</div><div class="clearboth"></div>
+<div class="demo-sep" style="margin-top: 20px;"></div>
+<section class="reading-box"><a href="http://themeforest.net/user/ThemeFusion" class="continue button large green">Purchase Now</a><h2>Avada is incredibly responsive, with a refreshingly clean design</h2><p>And it has some awesome features, premium sliders, unlimited colors, advanced theme options and so much more!</p><a href="http://themeforest.net/user/ThemeFusion" class="continue mobile-button button large green">Purchase Now</a></section>
+<div class="demo-sep" style="margin-top: -15px;"></div>
+<div class="one_half">
+<div class="accordian">
+<h5 class="toggle active"><a href="#"><span class="arrow"></span>Our Company Mission</a></h5><div class="toggle-content default-open" style="display: block;">]Fugiat dapibus, tellus ac cursus commodo, mauris sit condim eser ntumsi nibh, uum a justo vitaes amet risus amets un. Posi sectetut amet fermntum orem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia nons.</div>
+<h5 class="toggle "><a href="#"><span class="arrow"></span>The Avada Philosophy</a></h5><div class="toggle-content " style="">Fugiat dapibus, tellus ac cursus commodo, mauris sit condim eser ntumsi nibh, uum a justo vitaes amet risus amets un. Posi sectetut amet fermntum orem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia nons.</div>
+<h5 class="toggle "><a href="#"><span class="arrow"></span>The Avada Promise</a></h5><div class="toggle-content " style="">Fugiat dapibus, tellus ac cursus commodo, mauris sit condim eser ntumsi nibh, uum a justo vitaes amet risus amets un. Posi sectetut amet fermntum orem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia nons.</div>
+</div>
+</div>
+<div class="one_half last">
+<div class="tab-holder shortcode-tabs"><div class="tab-hold tabs-wrapper"><ul id="tabs" class="tabset tabs"><li><a href="#tab1">Tab Data #1</a></li><li><a href="#tab2">Tab Data #2</a></li><li><a href="#tab3">Tab Data #3</a></li></ul><div class="tab-box tabs-container">
+<div id="tab1" class="tab tab_content">
+<i class="fontawesome-icon large circle-yes icon-random"></i>Lid est laborum dolo rumes fugats untras. Etha rums ser quidem rerums facilis dolores nemis onis fugats vitaes nemo minima rerums unsers sadips amets. Ut enim ad minim veniam, quis nostrud Neque porro quisquam.Etha rums ser quidem rerum facilis dolores nemis onis fugats vitaes nemo minima rerums unsers sadips amets sit condim eser ntumsi nibh, uum a justo vitaes amet risus amets un. Posi sectetut amet.<br />
+</div>
+<div id="tab2" class="tab tab_content">Lid est laborum dolo rumes fugats untras. Etha rums ser quidem rerum facilis dolores nemis onis fugats vitaes nemo minima rerums unsers sadips amets. Ut enim ad minim veniam, quis nostrud Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci amets uns.  Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips ameet quasi architecto beatae vitae dicta sunt explicabo. amets dolores.</div>
+<div id="tab3" class="tab tab_content">Lid est laborum dolo rumes fugats untras. Etha rums ser quidem rerum facilis dolores nemis onis fugats vitaes nemo minima rerums unsers sadips amets. Ut enim ad minim veniam, quis nostrud Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci amets uns.  Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips ameet quasi architecto beatae vitae dicta sunt explicabo. amets dolores.</div>
+</div></div></div>
+</div><div class="clearboth"></div>
+<div class="demo-sep" style="margin-top: 20px;"></div>
+<div class="title"><h2>Stay In Touch With Us!</h2></div>
+<div class="social_links_shortcode"><ul class="social-networks"><li class="rss">
+			<a class="rss" href="#">Rss</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Rss</p>
+				</div>
+			</div>
+			</li><li class="facebook">
+			<a class="facebook" href="#">Facebook</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Facebook</p>
+				</div>
+			</div>
+			</li><li class="twitter">
+			<a class="twitter" href="#">Twitter</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Twitter</p>
+				</div>
+			</div>
+			</li><li class="dribbble">
+			<a class="dribbble" href="#">Dribbble</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Dribbble</p>
+				</div>
+			</div>
+			</li><li class="google">
+			<a class="google" href="#">Google</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Google</p>
+				</div>
+			</div>
+			</li><li class="linkedin">
+			<a class="linkedin" href="#">Linkedin</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Linkedin</p>
+				</div>
+			</div>
+			</li><li class="blogger">
+			<a class="blogger" href="#">Blogger</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Blogger</p>
+				</div>
+			</div>
+			</li><li class="tumblr">
+			<a class="tumblr" href="#">Tumblr</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Tumblr</p>
+				</div>
+			</div>
+			</li><li class="reddit">
+			<a class="reddit" href="#">Reddit</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Reddit</p>
+				</div>
+			</div>
+			</li><li class="yahoo">
+			<a class="yahoo" href="#">Yahoo</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Yahoo</p>
+				</div>
+			</div>
+			</li><li class="deviantart">
+			<a class="deviantart" href="#">Deviantart</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Deviantart</p>
+				</div>
+			</div>
+			</li><li class="vimeo">
+			<a class="vimeo" href="#">Vimeo</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Vimeo</p>
+				</div>
+			</div>
+			</li><li class="youtube">
+			<a class="youtube" href="#">Youtube</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Youtube</p>
+				</div>
+			</div>
+			</li><li class="pinterest">
+			<a class="pinterest" href="#">Pinterest</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Pinterest</p>
+				</div>
+			</div>
+			</li><li class="digg">
+			<a class="digg" href="#">Digg</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Digg</p>
+				</div>
+			</div>
+			</li><li class="flickr">
+			<a class="flickr" href="#">Flickr</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Flickr</p>
+				</div>
+			</div>
+			</li><li class="forrst">
+			<a class="forrst" href="#">Forrst</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Forrst</p>
+				</div>
+			</div>
+			</li><li class="myspace">
+			<a class="myspace" href="#">Myspace</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Myspace</p>
+				</div>
+			</div>
+			</li><li class="skype">
+			<a class="skype" href="#">Skype</a>
+			<div class="popup">
+				<div class="holder">
+					<p>Skype</p>
+				</div>
+			</div>
+			</li></ul></div>
+			</div>
+											
+<div id="disqus_thread">
+    </div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.any.tv/home-version-8/';
+    var disqus_identifier = '2660 http://theme-fusion.com/avada/?page_id=2660';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'anytvnetwork';
+    var disqus_title = "Home Version 8";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=2660';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.any.tv\/home-version-8\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+					</div>
+			</div>
+		</div>
+	</div>
+			<footer class="footer-area">
+		<div class="avada-row">
+			<section class="columns columns-4">
+				<article class="col">
+								</article>
+
+				<article class="col">
+								</article>
+
+				<article class="col">
+								</article>
+
+				<article class="col last">
+								</article>
+			</section>
+		</div>
+	</footer>
+			<footer id="footer">
+		<div class="avada-row">
+				<ul class="social-networks">
+						<li class="facebook"><a href="http://www.facebook.com/anyTVnetwork">Facebook</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Facebook</p>
+					</div>
+				</div>
+			</li>
+									<li class="twitter"><a href="http://twitter.com/anyTVnetwork">Twitter</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Twitter</p>
+					</div>
+				</div>
+			</li>
+																		<li class="youtube"><a href="http://www.youtube.com/anyTVnetwork">Youtube</a>
+				<div class="popup">
+					<div class="holder">
+						<p>Youtube</p>
+					</div>
+				</div>
+			</li>
+																																															</ul>
+					<ul class="copyright">
+				<li>Copyright 2013 any.TV | All Rights Reserved</li>
+			</ul>
+		</div>
+	</footer>
+		</div><!-- wrapper -->
+			<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/modernizr.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jtwt.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.elastislide.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.prettyPhoto.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.isotope.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.cycle.lite.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.hoverIntent.minified.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/jquery.eislideshow.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/js/gmap.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.any.tv/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/js/jquery.flexslider-min.js?ver=1.0.0'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Object Caching 1484/1561 objects using disk
+
+ Served from: www.any.tv @ 2013-06-18 20:44:09 by W3 Total Cache -->

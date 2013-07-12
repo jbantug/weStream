@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	width: 850px;
+	height: 440px;
+	background-color: #1b1b1b;
+}
+
+#vidright{
+	display: inline-block;
+	width: 233px;
+	height: 380px;
+	background-color: #2b2b2b;
+	overflow-x: hidden;
+	margin-bottom: 27px;
+	margin-left: -3px;
+}
+#vidright::-webkit-scrollbar {
+	width: 13px;
+	height: 13px;
+	background-color: #1b1b1b;
+}
+
+#vidright::-webkit-scrollbar-track-piece:vertical {
+	background-color: #2b2b2b;
+	border: 1px solid #1b1b1b;
+}
+#vidright::-webkit-scrollbar-thumb:vertical {
+	background-color: #1b1b1b;
+}
+#sample:hover{
+	background-color: #353535;
+}
+#sample{
+	width: 280px;
+	height: 130px;
+	cursor: pointer;
+}
+#titlebar{
+	height: 31px;
+	width: auto;
+	background-color: #1b1b1b;
+	color: white;
+	text-align: left;
+	margin-left: 5px;
+	font-size: 22px;
+	line-height: 31px;
+	display: inline-block;
+	float: left;
+}
+#pltitle,#vplayer,#cplayer,#pplayer{
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+	line-height: 31px;
+	margin-left: 15px;
+	float:left;
+	width: auto;
+}
+#imageline{
+	display: inline-block;
+	margin-left: 10px;
+	width: 160px;
+	color:white;
+}
+#num{
+	width: 12px;
+	display: inline-block;
+	float: left;
+	margin-top: -15px;
+	margin-left: 15px;
+	font-weight: bold;
+	text-shadow: -1px 2px 0px rgb(2, 1, 1);
+	color: #666666;
+	font-family: Arial;
+	font-size: 12px;
+}
+#vidcount{
+	display: inline-block;
+	color: white;
+	line-height: 31px;
+	float:right;
+	margin-right: 54px;
+	height: 31px;
+}
+.slot{
+	text-decoration: none;
+	color:white;
+	text-align: left;
+}
+p.pltray{
+	display:inline-block;
+	margin:0;
+}

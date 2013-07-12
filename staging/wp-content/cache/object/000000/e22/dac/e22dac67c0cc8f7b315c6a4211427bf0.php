@@ -1,0 +1,6 @@
+8cÚQ<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:5070;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2013-06-08 23:45:41";s:13:"post_date_gmt";s:19:"2013-06-09 07:45:41";s:12:"post_content";s:465:"You can embed anyone's videos or live streams to promote our Play Now links found in <a href="http://www.dashboard.tm/">www.dashboard.tm</a>!
+
+Of course, we recommend you make your own videos or live streams so that you build your own audience and improve as a content creator.
+
+But, if you have a popular website, Facebook or Twitter and do not want to create videos, simply find the most relevant videos on YouTube and embed them next to our Play Now links.
+";s:10:"post_title";s:38:"Do I need to make my own videos? - No!";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:31:"do-i-need-to-make-my-own-videos";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2013-06-08 23:55:27";s:17:"post_modified_gmt";s:19:"2013-06-09 07:55:27";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:50:"http://www.any.tv/?post_type=avada_faq&#038;p=5070";s:10:"menu_order";i:11;s:9:"post_type";s:9:"avada_faq";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

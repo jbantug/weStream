@@ -1,0 +1,29 @@
+;(function(exports){
+	
+	//connect to server
+	var socket = new WebSocket("ws://127.0.0.1:5000");
+	
+	//send a message
+	exports.sendToServer = function(message){
+		socket.send(message);	
+	}
+
+	socket.onopen = function(e){
+		console.log('open');
+	}
+	socket.onmessage = function(e){
+		console.log('Message');
+	}
+	socket.onclose = function(e){
+		console.log('Close');
+	}
+	socket.onerror = function(e){
+		console.log('Error');
+	} 
+
+	//on data receive
+	socket.onmessage = function (event) {
+  		console.log(event.data);
+	}
+	
+}(this.Chat = this.Chat || {}));

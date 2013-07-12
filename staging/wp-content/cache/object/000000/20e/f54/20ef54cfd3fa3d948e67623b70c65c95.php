@@ -1,0 +1,1 @@
+Ÿ.ÞQ<?php exit; ?>a:1:{s:7:"content";s:222:"a:3:{s:27:"wp-super-cache/wp-cache.php";s:23:"wpsupercache_deactivate";s:31:"custom-tables/custom-tables.php";a:2:{i:0;s:17:"wuk_custom_tables";i:1;s:9:"uninstall";}s:24:"bootstrapress/plugin.php";s:16:"wp_bs::uninstall";}";}
